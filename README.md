@@ -1,8 +1,10 @@
 1. Created new branch
-<<<<<<< HEAD
-2. Merged NewBranch with master
-=======
 2. Merged NewBranch with master
 3. Switched to NewBranch
 4. Rebase NewBranch
->>>>>>> One step for rebase
+<<<<<<< HEAD
+5. Git reset
+6. Git cherry-pick
+=======
+5. Git reset
+>>>>>>> 5203bba... Commiting reset step
