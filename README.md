@@ -5,3 +5,5 @@
 5. Git reset
 6. Git cherry-pick
 7. Created tag V1
+8. Stashing commit
+9. Push with stashed step 8.
